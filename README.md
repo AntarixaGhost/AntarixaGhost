@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything about Python and backend development.
 - 👯 I’m looking to collaborate on interesting Python projects.
-- 📫 How to reach me: **email.anda@gmail.com**
+- 📫 How to reach me: **antarixa01@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -15,8 +15,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntarixaGhost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="AntarixaGhost's GitHub Stats"/>
 </p>
@@ -24,9 +22,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarixaGhost&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
