@@ -14,3 +14,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntarixaGhost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="AntarixaGhost's GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarixaGhost&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</p>
