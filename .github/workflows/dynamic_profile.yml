@@ -1,0 +1,38 @@
+name: Build Dynamic Profile
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Berjalan setiap 30 menit
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update README with dynamic content
+
+    steps:
+      # Step 1: Checkout repository
+      - uses: actions/checkout@v3
+
+      # Step 2: Generate Contribution Snake
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-cyberpunk
+
+      # Step 3: Generate Recent GitHub Activity
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update activity stream'
+          MAX_LINES: 10
+
+      # Step 4: Commit all changes
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update dynamic profile elements"
+          file_pattern: 'README.md dist/*.svg'
