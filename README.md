@@ -2,8 +2,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM1aXJjZHNyaXJzdzU0ZnE5c2lrbzJodDU1dzJqb2t6aWJ1cjh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbE1p63ao8iAf7Cqbr/giphy.gif" width="100%"/>
 </p>
 
-<br/>
-
 <div align="center">
 <pre>
   ███████╗███╗   ██╗████████╗ █████╗ ██╗  ██╗██╗██╗   ██╗ ██████╗  ██████╗ ██╗  ██╗
@@ -14,6 +12,10 @@
   ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
 </pre>
 </div>
+
+<p align="center">
+    <img src="https://readme-cyberpunk-2077-eight.vercel.app/api/clock?timezone=Asia/Singapore&color=00FFFF&background=00000000" alt="Cyberpunk Clock"/>
+</p>
 
 <table width="100%">
   <tr>
@@ -42,31 +44,17 @@
   <img src="https://media.giphy.com/media/l4pTkygrvKaB51qpy/giphy.gif" width="100%"/>
 </p>
 
-<h2 align="center">TECH ARSENAL // CORE DIRECTIVES</h2>
 <table width="100%">
   <tr>
-    <td align="center" width="25%"><strong>LANGUAGE CORE</strong></td>
-    <td align="center" width="25%"><strong>FRAMEWORKS</strong></td>
-    <td align="center" width="25%"><strong>DATA STORAGE</strong></td>
-    <td align="center" width="25%"><strong>DEPLOYMENT & TOOLS</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-FFD800?style=for-the-badge&logo=python&logoColor=black"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Django-00FFFF?style=for-the-badge&logo=django&logoColor=black"/>
-      <img src="https://img.shields.io/badge/FastAPI-E92A7E?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-FFD800?style=for-the-badge&logo=postgresql&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Redis-E92A7E?style=for-the-badge&logo=redis&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-FFD800?style=for-the-badge&logo=docker&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Linux-E92A7E?style=for-the-badge&logo=linux&logoColor=white"/>
+    <td width="60%" valign="top">
+      <h3 align="center">RECENT ACTIVITY STREAM</h3>
+      </td>
+    <td width="40%" valign="top">
+      <h3 align-text="center">AUDIO SIGNAL</h3>
+      <p align="center">
+        <img src="https://spotify-readme-phi.vercel.app/api?id=[YOUR_SPOTIFY_USER_ID]&theme=dark&show_icon=true&font_color=00FFFF&background=00000000&bar_color=E92A7E" alt="Now Playing on Spotify"/>
+      </p>
+      <p align="center"><sub><i>*Memerlukan setup di Vercel & Spotify</i></sub></p>
     </td>
   </tr>
 </table>
@@ -76,21 +64,16 @@
 </p>
 
 <h2 align="center">DATASTREAM // ACTIVITY LOG</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AntarixaGhost&label=NODE_VISITORS&color=E92A7E&style=flat-square" alt="Profile Visitors"/>
-</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntarixaGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=00FFFF&icon_color=00FFFF&title_color=E92A7E&text_color=FFFFFF" alt="AntarixaGhost's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarixaGhost&layout=compact&langs_count=8&theme=dracula&border_color=00FFFF&title_color=E92A7E&text_color=FFFFFF" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntarixaGhost&theme=dracula&border=00FFFF&ring=E92A7E&fire=FFD800" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YOUR_WAKATIME_USERNAME]&layout=compact&theme=dracula&border_color=00FFFF&title_color=E92A7E&text_color=FFFFFF" alt="WakaTime Stats"/>
 </div>
 
 <div align="center">
   <h3>SNAKE_OS v2.0</h3>
   <img src="https://github.com/AntarixaGhost/AntarixaGhost/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark-cyberpunk" alt="Contribution Snake"/>
-  </div>
+</div>
 
 <br>
 
