@@ -23,3 +23,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarixaGhost&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/AntarixaGhost/AntarixaGhost/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
